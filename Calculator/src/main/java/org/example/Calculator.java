@@ -19,4 +19,8 @@ public class Calculator {
         }
         return num1 / num2;
     }
+
+    public int add(String s) {
+        return 0;
+    }
 }
