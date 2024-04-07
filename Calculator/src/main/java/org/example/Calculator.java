@@ -17,7 +17,7 @@ public class Calculator {
         if (num2 == 0) {
             throw new ArithmeticException("Division by zero is not allowed at this time.");
         }
-        return num1 / num2;
+        return 0;
     }
 
     public int add(String s) {
